@@ -5,7 +5,7 @@ const Projects = () => {
         { name: 'Phot Management App', link: 'https://photo-managament-app.netlify.app/' },
         { name: 'Dharam Music', link: 'https://mydharammusic.me/' },
         { name: 'Github-Profile-Clone', link: 'https://github-profile-clone-wheat.vercel.app/' },
-        { name: 'The-Country-Explorer', link: 'https://the-country-explorer.vercel.app/' },
+        { name: 'The-Country-Explorer', link: 'https://the-countries-explorer.vercel.app/' },
         { name: 'pdf-contentwebsite-prototype', link: 'https://pdf-contentwebsite-prototype.vercel.app/' },
     ];
 
